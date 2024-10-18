@@ -1,5 +1,10 @@
 # Estudo de comandos NASM
-## primeirod comandos
+
+<p align="center">
+<img src="https://play-lh.googleusercontent.com/UWg9QLQCg6iwyD9njae1csEUBZR34llgIYR2crZI1dvcdNDFq2HX65WmEfnGh8Qcv34=w240-h480" width=100 height=100>
+</p>
+
+## primeiros comandos
 
 * Programa Hello world
 
